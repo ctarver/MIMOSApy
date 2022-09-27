@@ -1,0 +1,8 @@
+numpy
+matplotlib
+torch
+click
+scipy
+tqdm
+plotly
+pandas
